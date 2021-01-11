@@ -1,5 +1,2 @@
 print("my name is dijiaaoteman")
-def func(n):
-    print(n)
-
-func(10)
+print("这是一个dev代码")
